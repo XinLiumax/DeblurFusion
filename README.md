@@ -22,3 +22,6 @@ python train.py
 ![图片1202](https://github.com/user-attachments/assets/ae75ddd6-70ab-4c7d-8252-84202fbd0c2f)
 
 The results of DeblurFusion and 9 state-of-the-art algorithms on two scenes (i.e., daytime and nighttime) from the RoadScene dataset.
+
+# Citation
+📝Repository for the paper “Unified Deblurring and Fusion: Enhancing Infrared-Visible Image Fusion Quality via Shared Feature Learning” submitted to The Visual Computer. Please cite our work if you use this code.
